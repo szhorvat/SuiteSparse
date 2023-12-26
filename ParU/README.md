@@ -15,7 +15,7 @@ Stay tuned.
 
 ## Introduction
 
-ParU: is a set of routings for solving sparse linear system via parallel
+ParU: is a set of routines for solving sparse linear system via parallel
 multifrontal LU factorization algorithms.  Requires OpenMP 4.0+, BLAS, CHOLMOD,
 UMFPACK, AMD, COLAMD, CAMD, CCOLAMD, and METIS (in particular, the
 CHOLMOD/SuiteSparse_metis variant; see the CHOLMOD documentation for details).
